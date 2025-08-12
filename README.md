@@ -10,3 +10,4 @@ El proyecto consiste en crear una base de datos que contenga toda la informació
 Script de la Base de Datos
 
 [Creación base de datos](empresa_seguridad.sql)
+[Diagrama](ERD.png)
