@@ -101,3 +101,7 @@ Indice
 [Creación de las tablas](empresa_seguridad.sql)
 
 [Diagrama](ERD.png)
+
+[Descripción de la base de datos](Descripción_Proyecto.pdf)
+
+[Listado de Tablas](Descripción_Proyecto.pdf)
